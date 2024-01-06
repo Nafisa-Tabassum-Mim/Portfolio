@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-title {
+    font-size: 45px;
+    font-weight: 800;
+}
+
+.mary {
+    color: #FD6E0A;
+}
+
+.btn-primary {
+    border-radius: 3px;
+    border: none;
+    background: #FD6E0A;
+    color: white;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 35px 19px 36px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
